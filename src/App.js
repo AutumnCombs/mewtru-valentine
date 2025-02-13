@@ -47,7 +47,7 @@ export default function App() {
       </>
     ) : (
         <>
-          <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
+          <img className="h-[200px]" src="https://media.tenor.com/6hNZDbwxOCMAAAAj/love-racoon.gif" />
           <h1 className="text-4xl my-4">Christian, will you be my Valentine?</h1>
           <div>
             <button
