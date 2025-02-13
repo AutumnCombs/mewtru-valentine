@@ -43,7 +43,7 @@ export default function App() {
     <div className="flex flex-col items-center justify-center h-screen -mt-16">
     {yesPressed ? (
       <>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB6bjY1MDVhZXdmcXo5Zzl0cDgzeGtjaTk2Y3FsejF0YjUzdzV2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzXiddo2twMmdmU8Lv/giphy.gif" />
+      <img src="https://media.tenor.com/Ddw70xVXPPcAAAAi/milk-and-mocha.gif" />
       <div className="text-4xl font-bold my-4">Yay!! Happy Valentine's Day!!🥰😘</div>
       </>
     ) : (
