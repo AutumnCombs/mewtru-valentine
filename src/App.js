@@ -1,5 +1,6 @@
 
 import { useState } from "react";
+import './App.css';
 
 
 export default function App() {
@@ -43,7 +44,7 @@ export default function App() {
     {yesPressed ? (
       <>
       <img src="https://media.tenor.com/Ddw70xVXPPcAAAAi/milk-and-mocha.gif" />
-      <div className="text-4xl font-bold my-4">Ok yay!!!</div>
+      <div className="text-4xl font-bold my-4">Yay!! Happy Valentine's Day!!🥰😘</div>
       </>
     ) : (
         <>

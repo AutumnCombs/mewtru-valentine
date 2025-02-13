@@ -4,6 +4,6 @@
 
 @import "tailwindcss/utilities";
 
-.backgound {
+body {
     background-color:rgb(146, 215, 228)
 }
