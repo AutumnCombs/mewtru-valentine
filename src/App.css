@@ -3,3 +3,7 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+.backgound {
+    background-color:rgb(146, 215, 228)
+}

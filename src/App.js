@@ -42,7 +42,7 @@ export default function App() {
     <div className="flex flex-col items-center justify-center h-screen -mt-16">
     {yesPressed ? (
       <>
-      <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+      <img src="https://media.tenor.com/Ddw70xVXPPcAAAAi/milk-and-mocha.gif" />
       <div className="text-4xl font-bold my-4">Ok yay!!!</div>
       </>
     ) : (
